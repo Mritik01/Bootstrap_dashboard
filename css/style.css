@@ -1,0 +1,170 @@
+.col-sm-12 {
+    border-radius: 30px;
+    height: 150px;
+    /* width: 28%; */
+    /* border: 2px solid green; */
+}
+
+.col-color-dark-gray {
+    background-color: #181C3B;
+}
+
+body {
+    color: white;
+    background-color: #0A0F26;
+}
+
+.third-hig {
+    height: 300px;
+}
+
+.margn-row {
+    margin-top: -150px;
+}
+
+.custm-hight {
+    height: 450px;
+}
+
+.lst-row {
+    margin-top: -300px;
+}
+
+.lst-row div {
+    height: 285px;
+}
+
+/*
+.container {
+    width: 90%;
+}
+
+.col {
+    margin: 4px;
+    width: 22%;
+    border-radius: 20px;
+}
+ */
+.side-nav-bar {
+    display: inline-block;
+    height: 800px;
+    width: 80px;
+    border-radius: 60px;
+    margin-left: 35px;
+    background-color: #181C3B;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.side-nav-bar ul {
+    padding-left: unset;
+}
+
+.side-nav-bar li {
+    text-align: center;
+    list-style: none;
+    /* padding: 25px 0px 0px 0px; */
+    font-weight: bold;
+}
+
+.top-grid {
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 500px;
+    display: inline;
+    float: right;
+    margin-top: 6px;
+}
+
+/*
+.big-box {
+    height: 125px !important;
+    width: 351px;
+}
+
+.top-lst-box {
+    width: 344px;
+}
+*/
+.small-box {
+    margin: 46px 32px 0px 19px !important;
+    /* width: 295px; */
+    height: 57px;
+    border-radius: 3px;
+}
+
+/*
+.col-6 {
+    border: 2px solid green;
+}
+
+.middle-grid {
+    display: inline-block;
+    float: right;
+}
+
+.mid-1 {
+    width: 22%;
+    height: 116px;
+}
+
+.mid-2 {
+    height: 130px;
+    width: 271px;
+}
+
+.mid-3 {
+    width: 19%;
+    height: 300px;
+}
+
+.mid-4 {
+    height: 150px;
+    width: 29.5%;
+}
+
+.secnd-mid-1 {
+    margin-top: -178px !important;
+    height: 184px;
+}
+
+.secnd-mid-2 {
+    width: 270px;
+    margin-top: -160px !important;
+}
+
+.lst-1st {
+    height: 250px;
+    margin: 4px;
+    width: 37%;
+    border-radius: 16px;
+}
+
+.lst-2nd {
+    height: 250px;
+    width: 24.5%
+}
+
+.lst-3rd {
+    margin-top: -143px !important;
+    margin-left: 10px !important;
+    width: 29.6%;
+}
+
+.bg-dark-loc {
+    background: #181C3B;
+}
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1525px;
+    }
+} */
